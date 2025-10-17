@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// ini kode permulaan
 int main() { 
     int hari, denda;
 
